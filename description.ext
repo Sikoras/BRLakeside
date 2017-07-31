@@ -1,0 +1,13 @@
+
+class Header
+{
+	gameType = Unknown;
+	minPlayers = 1;
+	maxPlayers = 20;
+};
+author = Sikoras;
+onLoadName = LSBR
+onLoadMission = Lakeside BattleRoyale;
+disabledAI=1;
+disableChannels[]	={0,2,6};
+

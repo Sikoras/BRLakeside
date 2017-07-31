@@ -1,0 +1,1 @@
+cutText ["You are back in the play area.","PLAIN"];
